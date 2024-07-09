@@ -1,4 +1,4 @@
-# Projeto Huddle Base
+# Projeto Landing Page
 
 Um projeto utilizando as propriedades do Css flex e Grid para criar uma pagina layout responsiva para Mobile 🎈
 
